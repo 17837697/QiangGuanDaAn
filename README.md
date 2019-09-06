@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center"><img width="30%" src="微信打赏码.jpg" /></p>
+<p align="center"><img width="50%" src="微信打赏码.jpg" /></p>
