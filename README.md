@@ -36,4 +36,4 @@ ps：按下**ctrl+F**，即可在网页内搜索
 
 ---
 
-<p align="center"><img width="50%" src="微信打赏码.jpg" /></p>
+<p align="center"><img width="50%" src="微信赞赏码.jpg" /></p>
