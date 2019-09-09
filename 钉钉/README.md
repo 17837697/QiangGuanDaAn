@@ -1,4 +1,4 @@
-<p align="center"><img width="20%" src="/学习强关logo.jpg" /><img width="20%" src="/QiangGuanDaAn_QR.png.jpg" /></p>
+<p align="center"><img width="20%" src="/学习强关logo.jpg" /><img width="20%" src="/QiangGuanDaAn_QR.png" /></p>
 
 # QiangGuanDaAn #
 
