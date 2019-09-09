@@ -23,5 +23,8 @@ ps：按下**ctrl+F**，即可在网页内搜索
 移动端微信用内置浏览器打开时会闪退，所以请用其它浏览器查看。电脑端就没有这个问题。
 
 ---
+错误反馈：https://github.com/17837697/QiangGuanDaAn/issues/1
+
+---
 
 <p align="center"><img width="50%" src="/微信赞赏码.jpg" /></p>
