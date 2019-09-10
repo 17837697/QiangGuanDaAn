@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="微信赞赏码.jpg" /></p><br />
+<p align="center"><img width="50%" src="微信赞赏码.jpg" /></p><br />
 <p align="center"><img width="20%" src="学习强关logo.jpg" /><img width="20%" src="QiangGuanDaAn_QR.png" /></p>
 
 # QiangGuanDaAn #
